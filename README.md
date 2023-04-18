@@ -23,10 +23,11 @@ I am Anshuman Tewary, currently working as a Marketing Analyst at [Classplus](ht
 
 ## ⚡ Technologies
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Power BI](https://img.shields.io/badge/-powerbi-1572B6?style=flat-square&logo=powerbi)
+![Python](https://img.shields.io/badge/-Python-e8a81e?style=round-square&logo=Python)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-08c262?style=round-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-e8139d
+?style=round-square&logo=mysql)
+![Power BI](https://img.shields.io/badge/-powerbi-1572B6?style=round-square&logo=powerbi)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=I-amanshuman&count_private=true&show_icons=true&include_all_commits=true)
 
