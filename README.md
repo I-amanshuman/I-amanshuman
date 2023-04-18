@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I am Anshuman Tewary, currently working as a Marketing Analyst at the [Classplus](https://classplusapp.com//). I have 2.5+ years of experience in high-growth startups, skilled at driving revenue, scaling, operations, and improving customer retention. Proven expertise in data analytics using tools like Power BI for visualization, Python and SQL for Data Modelling and Forecasting Find out more about me & feel free to connect with me here:
+
+[![Linkedin Badge](https://img.shields.io/badge/-AnshumanTewary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshuman-tewary/)](https://www.linkedin.com/in/anshuman-tewary/)
+[![Gmail Badge](https://img.shields.io/badge/-tewary.anshuman@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tewary.anshuman@gmail.com)](mailto:tewary.anshuman@gmail.com)
+
+## ⚡ Technologies
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Power BI](https://img.shields.io/badge/-powerbi-1572B6?style=flat-square&logo=powerbi)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=I-amanshuman&count_private=true&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-amanshuman&hide=TeX&layout=compact)
